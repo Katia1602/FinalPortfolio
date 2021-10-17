@@ -7,6 +7,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Final Potrfolio Work
+
+Over the course of the module, I have generated over 20 various maps through a number of different exercises and assignments. Throughout this course, I developed my ability to navigate a variety of unfamiliar datasets, while critically assessing data and improving my understanding of spatial phenomena at the regional, neighborhood and site scales. 
+
+By working within teams on the majority of these assignments, I learned a lot of tricks and tips from my peers, which might be reflected below in some of my work. Some color schemes in these maps were inspired by my teammates, from which I learned the techniques on how to make my maps more visually appealing. 
+
 
 # Map of Los Angeles, California
 This interactive map shows the percentage of Asian residents in each census block Los Angeles County, California. This map is based on the data from the 2010 Decennial Census.
@@ -54,6 +60,14 @@ This map shows the number of community centers, provided by the City of Boston a
 * Aggregating point data to a layer of polygons
 
 [![](thumbnails/Boston_CC.png)](https://katia1602.github.io/FinalPortfolio/PDF_Maps/Boston_CC.pdf){target="_blank"}
+
+
+## Map of Chicago, IL
+This map shows the location of parks in Chicago and its surrounding areas. It also shows the location of public art within those parks.
+
+* Creating a map with three layers: A base map image, a layer of polygons, and layer of points
+
+[![](thumbnails/Park.png)](https://katia1602.github.io/FinalPortfolio/PDF_Maps/Park.pdf){target="_blank"}
 
 ## Map of San Francisco, CA
 This is historic map of San Francisco from the early 20th century. It shows the damage to the city caused by the earthquake of 1906. 
