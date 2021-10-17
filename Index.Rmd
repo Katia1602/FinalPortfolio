@@ -83,4 +83,4 @@ This map demonstrates the following skills:
 
 * Georeferencing a raster image
 
-[![](thumbnails/GEO_MAP_FIRE.JPG)](https://katia1602.github.io/portfolio/fullsize/GEO_MAP_FIRE.pdf){target="_blank"}
+[![](thumbnails/GEO_MAP_FIRE.JPG)](https://katia1602.github.io/portfolio/thumbnails/GEO_MAP_FIRE.JPG){target="_blank"}
