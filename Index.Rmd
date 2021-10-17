@@ -15,7 +15,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/LA_Interactive.jpg)](https://katia1602.github.io/portfolio/fullsize/LA_Asian.html){target="_blank"}
+[![](thumbnails/LA_Interactive.jpg)](https://katia1602.github.io/FinalPortfolio/fullsize/LA_Asian.html){target="_blank"}
 
 # Maps of Salt Lake City, Utah 
 The following three maps show access to pharmacies and transit stops in Salt Lake City, UT.  Although the Salt Lake Valley has historically been a very car-dependent area, the city has focused on improving networks for active modes of transport over the last few decades. I therefore decided to look at accessibility through the modes of  biking and walking.
@@ -26,7 +26,7 @@ This map shows isochrones based on transit travel times by bike to the nearest p
 * Displaying multiple vector layers on the same map
 * Calculating and displaying accessibility, based on travel time
 
-[![](thumbnails/Bicycle_Isochrones.png)](https://katia1602.github.io/portfolio/fullsize/Bicycle_Isochrones.png){target="_blank"}
+[![](thumbnails/Bicycle_Isochrones.png)](https://katia1602.github.io/portfolio/PDF_Maps/Bicycle_Isochrones.pdf){target="_blank"}
 
 ## Pedestrian Accessibility
 This map shows pedestrian accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
@@ -35,7 +35,7 @@ This map shows pedestrian accessibility based on a distance-decay function of th
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 
-[![](thumbnails/Raster_Map.png)](https://katia1602.github.io/portfolio/fullsize/Raster_Map.png){target="_blank"}
+[![](thumbnails/Raster_Map.png)](https://katia1602.github.io/portfolio/PDF_Maps/Raster_Map.pdf){target="_blank"}
 
 ## Contour Map
 This map also shows pedestrian access to transit but was created slightly differently to the above map. I recreated the polygon layer on a square grid rather than a hexagonal grid and then made the polygon boundaries appear as countours.
@@ -45,7 +45,7 @@ This map also shows pedestrian access to transit but was created slightly differ
 * Displaying raster data on a map
 * Converting between raster layers and vector layers
 
-[![](thumbnails/ContourMap.png)](https://katia1602.github.io/portfolio/fullsize/Contour_Map.png){target="_blank"}
+[![](thumbnails/ContourMap.png)](https://katia1602.github.io/portfolio/PDF_Maps/Countour_Map.pdf){target="_blank"}
 
 ## Map of Boston, MA
 This map shows the number of community centers, provided by the City of Boston and most recently updated in 2018, within each neighborhood. This map shows that there are between 0 and 5 centers in each neighborhood and that the greatest number of community centers are located in the Dorchester neighborhood.
@@ -53,7 +53,7 @@ This map shows the number of community centers, provided by the City of Boston a
 * Calculating and displaying relationships among point and polygon layers based on distance
 * Aggregating point data to a layer of polygons
 
-[![](thumbnails/Boston_CC.png)](https://katia1602.github.io/portfolio/fullsize/Boston_CC.png){target="_blank"}
+[![](thumbnails/Boston_CC.png)](https://katia1602.github.io/portfolio/PDF_Maps/Boston_CC.pdf){target="_blank"}
 
 ## Map of San Francisco, CA
 This is historic map of San Francisco from the early 20th century. It shows the damage to the city caused by the earthquake of 1906. 
